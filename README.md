@@ -1,5 +1,5 @@
 # ctf-dev-container
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/pbrucla/ctf-dev-container?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/deepimpactmir/ctf-dev-container?quickstart=1)
 
 All the CTF tooling you will need inside a [GitHub Dev Container](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers)!
 
@@ -13,7 +13,7 @@ This project takes advantages of [GitHub Codespaces](https://github.com/features
 ## Getting Started
 In order to use this project, you will need to have a [GitHub account](https://github.com/).
 
-Simply click here to get started or view a previously created Codespace: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/pbrucla/ctf-dev-container?quickstart=1)
+Simply click here to get started or view a previously created Codespace: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/deepimpactmir/ctf-dev-container?quickstart=1)
 - To open the Command Palette, click the gear icon in the bottom left corner and select "Command Palette". You can also use the keyboard shortcut listed here to open up the Command Palette directly.
 - To stop a Codespace, open the Command Palette, and search for `Codespaces: Stop Current Codespace`. Your Codespace will automatically stop after a period of inactivity as defined in your github user settings, but you should stop once you are done as you are only given a limited amount of usage per month.
 - To delete a Codespace, open the Command Palette, and search for `Codespaces: Delete Codespace...`. This will irreversably delete the Codespace!
