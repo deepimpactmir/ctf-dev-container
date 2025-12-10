@@ -1,5 +1,4 @@
-ARG VARIANT="jammy"
-FROM mcr.microsoft.com/devcontainers/base:ubuntu
+FROM mcr.microsoft.com/devcontainers/base:trixie
 
 LABEL dev.containers.features="common"
 
